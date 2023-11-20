@@ -45,7 +45,7 @@ PySide2:
 ```bash    
 pip install PySide2
 ```
-PySide2:
+tabulate:
 ```bash    
 pip install tabulate
 ```
