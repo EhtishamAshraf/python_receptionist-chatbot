@@ -28,7 +28,7 @@ import pygame
 
 # Necessary for chatgpt:
 import openai
-openai.api_key = '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'
+openai.api_key = '' # your openAI API key
 
 application = QApplication([]) # object to control the application's control flow
 main_window = QWidget() # creates the main window
