@@ -11,6 +11,7 @@ python -m venv ReceptionistBot_Env
 ReceptionistBot_Env\Scripts\activate
 ```
 Make sure that python is already installed on your PC. 
+### Updating the Database
 If you plan on updating the database, then check ```create_database.py```  and ```insert_data.py``` files and make the necessary changes.
 
 # Libraries required for the chatbot
