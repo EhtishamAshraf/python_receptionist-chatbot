@@ -14,7 +14,7 @@ Make sure that python is already installed on your PC.
 ### Updating the Database
 If you plan on updating the database, then check ```create_database.py```  and ```insert_data.py``` files and make the necessary changes.
 
-# Libraries required for the chatbot
+# Libraries required for the Receptionist Bot
 The chatbot requires installation of the following libraries:
 1. Chatterbot
 2. OpenAI
@@ -54,7 +54,7 @@ pip install tabulate
 # Run the code 
 Open terminal, move to the directory (where code file is present) and type the following command:
 ```  
-python v11-chatgpt-chatterbot-speech-GUI-sql.py
+python v12-ReceptionistBot-Final.py
 ```  
 
 # Flow of the code
