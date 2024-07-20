@@ -55,7 +55,11 @@ pip install tabulate
 Open terminal, move to the directory (where code file is present) and type the following command:
 ```  
 python v12-ReceptionistBot-Final.py
-```  
+```
+## Demo Video
+Click on the image below to watch the youtube video of the simulation
+
+[![Watch the video](https://github.com/EhtishamAshraf/python_receptionist-chatbot/blob/main/ReceptionistBot.PNG)](https://youtu.be/VxexHQe1T4g)
 
 # Flow of the code
 1. Check if the user entered "number" matches with a card number from our SQL database?
