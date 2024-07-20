@@ -2,6 +2,8 @@
 Receptionist chatbot is created using chatterbot to answer project specific queries, chatGPT is integrated to answer general questions.
 Database is created using SQL, and gTTS (google text to speech library) is used for the conversion of text to speech. PySide2 is used to design a GUI for the chatbot.
 
+![ReceptionistBot GUI](https://github.com/EhtishamAshraf/python_receptionist-chatbot/blob/main/ReceptionistBot%20GUI.PNG)
+
 # Create virtual Environment 
 Navigate to the directory where you would like to create the virtual environment & open command prompt to execute the following commands:
 ```bash
